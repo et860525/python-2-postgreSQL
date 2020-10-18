@@ -11,8 +11,7 @@ Add database.ini need contain:
 * user
 * password
 
-## Execute Client.py
-
+Execute Client.py
 
 ## Database Source
 From PostgreSQL Sample Database: [Here](https://www.postgresqltutorial.com/postgresql-sample-database/)
