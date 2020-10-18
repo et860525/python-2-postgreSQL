@@ -1,5 +1,3 @@
-import psycopg2
-
 from connect import connect
 
 def getProfile(email):
