@@ -6,7 +6,7 @@ params = config()
 def connect(sql, *args):
     conn = None
     try:
-        print('Connecting to the DVD database...\n')
+        #print('Connecting to the DVD database...\n')
         conn = psycopg2.connect(**params)
 
         cur = conn.cursor()
